@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>data-algo</groupId>
-  <artifactId>04-2-queue</artifactId>
+  <artifactId>07-DailyTasks</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>04-2-queue</name>
+  <name>07-DailyTasks</name>
   <url>https://opas.peppi.oulu.fi/fi/opintojakso/811312A/4550?period=2020-2021</url>
 
   <properties>
