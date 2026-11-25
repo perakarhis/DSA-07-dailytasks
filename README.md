@@ -14,7 +14,7 @@ First, **copy** `QueueFactory.java` and `QueueImplementation.java` files **from*
 
 ```command
 mvn package
-java -jar target/04-queue-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar target/07-DailyTasks-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 See how it works. You should see one new task printed out periodically, until the queue is empty, controlled by the `Timer` and `TimerTask`. If the tests passed, the app should also work.
